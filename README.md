@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Aiman Syafiq - Full-stack developer" src="https://capsule-render.vercel.app/api?type=blur&height=240&color=0:020617,45:0f172a,100:38bdf8&text=Aiman%20Syafiq&fontColor=ffffff&fontSize=58&fontAlignY=40&desc=Full-stack%20developer%20building%20apps%2C%20automation%2C%20and%20product%20tools&descAlignY=60&descSize=17" />
+<img width="100%" alt="Aiman Syafiq - Full-stack developer" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0f172a&text=Aiman%20Syafiq&fontColor=ffffff&fontSize=54&fontAlignY=42&desc=Full-stack%20developer%20building%20apps%2C%20automation%2C%20and%20product%20tools&descAlignY=64&descSize=16" />
 
 <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=From+idea+to+deployed+product.;TypeScript+%7C+Angular+%7C+React+%7C+Node.js+%7C+Vercel;Currently+building+Loopdale+and+automation-first+tools." />
 
