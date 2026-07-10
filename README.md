@@ -46,6 +46,16 @@ I'm currently focused on full-stack web development with TypeScript, Angular, Re
 
 <div align="center">
 
+### Currently Building
+
+**Loopdale** - a lead capture automation app that stores inquiries in Google Sheets, sends Telegram alerts, and replies to customers by email.
+
+</div>
+
+---
+
+<div align="center">
+
 ### Featured Work
 
 | Project | What it does | Live |
