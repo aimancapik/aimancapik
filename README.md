@@ -7,7 +7,7 @@
 <p>
   <a href="https://portfolio-aiman-syafiq.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://github.com/aimancapik"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://jom-masak.vercel.app"><img alt="JomMasak" src="https://img.shields.io/badge/JomMasak-0f172a?style=for-the-badge&logo=angular&logoColor=white"></a>
+  <a href="#featured-builds"><img alt="Featured builds" src="https://img.shields.io/badge/Featured_Builds-0f172a?style=for-the-badge&logo=rocket&logoColor=white"></a>
 </p>
 
 </div>
