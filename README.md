@@ -2,7 +2,7 @@
 
 <img width="100%" alt="Aiman Syafiq - Full-stack developer" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f172a,45:1e293b,100:38bdf8&text=Aiman%20Syafiq&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Full-stack%20developer%20building%20practical%20web%20apps%2C%20automations%2C%20and%20product%20tools&descAlignY=58&descSize=17" />
 
-<img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=I+ship+deployed+apps%2C+not+just+screenshots.;TypeScript+%7C+Angular+%7C+React+%7C+Node.js+%7C+Vercel;Currently+building+Loopdale+and+automation-first+tools." />
+<img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=From+idea+to+deployed+product.;TypeScript+%7C+Angular+%7C+React+%7C+Node.js+%7C+Vercel;Currently+building+Loopdale+and+automation-first+tools." />
 
 <p>
   <a href="https://portfolio-aiman-syafiq.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"></a>
