@@ -37,32 +37,46 @@ I build full-stack web apps, automation systems, dashboards, and product tools t
       <a href="https://github.com/aimancapik/Loopdale">Private repo</a>
     </td>
     <td width="50%">
+      <h3>LepakSpot</h3>
+      <p>Social cafe discovery and group decision app for Malaysian young adults and cafe hoppers.</p>
+      <p><code>TypeScript</code> <code>HTML</code> <code>SCSS</code></p>
+      <a href="https://lepakspot.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/LepakSpot">Private repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>recipe-app</h3>
+      <p>Recipe app built around structured recipe data and a deployed full-stack workflow.</p>
+      <p><code>TypeScript</code> <code>PLpgSQL</code> <code>CSS</code></p>
+      <a href="https://recipe-app-azure-seven.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/recipe-app">Repo</a>
+    </td>
+    <td width="50%">
+      <h3>JomMasak</h3>
+      <p>Recipe URL cleaner that turns messy pages into structured recipes.</p>
+      <p><code>Angular</code> <code>Express</code> <code>TypeScript</code></p>
+      <a href="https://jom-masak.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/JomMasak">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>Portfolio</h3>
       <p>Personal portfolio and project showcase for recent builds and experiments.</p>
       <p><code>HTML</code> <code>TypeScript</code> <code>SCSS</code></p>
       <a href="https://portfolio-aiman-syafiq.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/portfolio-aiman-syafiq">Repo</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>Archivolt</h3>
       <p>Knowledge organization and browsing app with a clean product interface.</p>
       <p><code>JavaScript</code> <code>CSS</code> <code>Vercel</code></p>
       <a href="https://archivolt-seven.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/archivolt">Repo</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>TableTap</h3>
       <p>Table-focused product interface built around fast scanning and structured data.</p>
       <p><code>TypeScript</code> <code>HTML</code> <code>CSS</code></p>
       <a href="https://table-tap-virid.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/TableTap">Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>JomMasak</h3>
-      <p>Recipe URL cleaner that turns messy pages into structured recipes.</p>
-      <p><code>Angular</code> <code>Express</code> <code>TypeScript</code></p>
-      <a href="https://jom-masak.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/JomMasak">Repo</a>
     </td>
     <td width="50%">
       <h3>Backend Documentation System</h3>
