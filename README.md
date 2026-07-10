@@ -46,20 +46,11 @@ I'm currently focused on full-stack web development with TypeScript, Angular, Re
 
 <div align="center">
 
-### Currently Building
-
-**Loopdale** - a lead capture automation app that stores inquiries in Google Sheets, sends Telegram alerts, and replies to customers by email.
-
-</div>
-
----
-
-<div align="center">
-
 ### Featured Work
 
 | Project | What it does | Live |
 | --- | --- | --- |
+| [Loopdale](https://github.com/aimancapik/Loopdale) | Lead capture automation that stores inquiries in Google Sheets, sends Telegram alerts, and replies to customers by email. | Private |
 | [Portfolio](https://github.com/aimancapik/portfolio-aiman-syafiq) | Personal portfolio and project showcase. | [Open](https://portfolio-aiman-syafiq.vercel.app) |
 | [Archivolt](https://github.com/aimancapik/archivolt) | Web app for organizing and browsing saved knowledge. | [Open](https://archivolt-seven.vercel.app) |
 | [TableTap](https://github.com/aimancapik/TableTap) | Table-focused web app built with TypeScript. | [Open](https://table-tap-virid.vercel.app) |
