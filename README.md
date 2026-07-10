@@ -65,8 +65,8 @@ I build full-stack web apps, automation systems, dashboards, and product tools t
 ### GitHub Snapshot
 
 <p>
-  <img height="170" alt="Aiman's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aimancapik&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimancapik&layout=compact&hide_border=true&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb" />
+  <img height="170" alt="Aiman's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aimancapik&theme=github_dark" />
+  <img height="170" alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aimancapik&theme=github_dark" />
 </p>
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=aimancapik&theme=tokyonight-duo&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
