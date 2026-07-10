@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Aiman Syafiq - Full-stack developer" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f172a,45:1e293b,100:38bdf8&text=Aiman%20Syafiq&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Full-stack%20developer%20building%20practical%20web%20apps%2C%20automations%2C%20and%20product%20tools&descAlignY=58&descSize=17" />
+<img width="100%" alt="Aiman Syafiq - Full-stack developer" src="https://capsule-render.vercel.app/api?type=blur&height=240&color=0:020617,45:0f172a,100:38bdf8&text=Aiman%20Syafiq&fontColor=ffffff&fontSize=58&fontAlignY=40&desc=Full-stack%20developer%20building%20apps%2C%20automation%2C%20and%20product%20tools&descAlignY=60&descSize=17" />
 
 <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=From+idea+to+deployed+product.;TypeScript+%7C+Angular+%7C+React+%7C+Node.js+%7C+Vercel;Currently+building+Loopdale+and+automation-first+tools." />
 
@@ -16,26 +16,62 @@
 
 <div align="center">
 
-### What I Build
+### Builder Profile
 
 I build full-stack web apps, automation systems, dashboards, and product tools that are meant to be used, tested, and deployed.
 
-`TypeScript` · `Angular` · `React` · `Node.js` · `Express` · `Vercel` · `Google Sheets Automation` · `Telegram Bots`
+`TypeScript` &middot; `Angular` &middot; `React` &middot; `Node.js` &middot; `Express` &middot; `Vercel` &middot; `Google Sheets Automation` &middot; `Telegram Bots`
 
 </div>
 
 ---
 
-### Featured Builds
+<h3 align="center">Featured Builds</h3>
 
-| Build | Focus | Stack | Status |
-| --- | --- | --- | --- |
-| [Loopdale](https://github.com/aimancapik/Loopdale) | Lead capture automation with Google Sheets storage, Telegram alerts, and customer email replies. | Node.js, Express, JavaScript | Private |
-| [Portfolio](https://github.com/aimancapik/portfolio-aiman-syafiq) | Personal portfolio and project showcase. | HTML, TypeScript, SCSS | [Live](https://portfolio-aiman-syafiq.vercel.app) |
-| [Archivolt](https://github.com/aimancapik/archivolt) | Knowledge organization and browsing app. | JavaScript, CSS | [Live](https://archivolt-seven.vercel.app) |
-| [TableTap](https://github.com/aimancapik/TableTap) | Table-focused product interface built with TypeScript. | TypeScript, HTML, CSS | [Live](https://table-tap-virid.vercel.app) |
-| [JomMasak](https://github.com/aimancapik/JomMasak) | Recipe URL cleaner that turns messy pages into structured recipes. | Angular, Express, TypeScript | [Live](https://jom-masak.vercel.app) |
-| [Backend Documentation System](https://github.com/aimancapik/backend-documentation-system) | API documentation workflow with inline editing, sandbox simulation, and PDF export. | JavaScript, CSS | [Live](https://backend-documentation-system.vercel.app) |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Loopdale</h3>
+      <p>Lead capture automation with Google Sheets storage, Telegram alerts, and customer email replies.</p>
+      <p><code>Node.js</code> <code>Express</code> <code>JavaScript</code></p>
+      <a href="https://github.com/aimancapik/Loopdale">Private repo</a>
+    </td>
+    <td width="50%">
+      <h3>Portfolio</h3>
+      <p>Personal portfolio and project showcase for recent builds and experiments.</p>
+      <p><code>HTML</code> <code>TypeScript</code> <code>SCSS</code></p>
+      <a href="https://portfolio-aiman-syafiq.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/portfolio-aiman-syafiq">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Archivolt</h3>
+      <p>Knowledge organization and browsing app with a clean product interface.</p>
+      <p><code>JavaScript</code> <code>CSS</code> <code>Vercel</code></p>
+      <a href="https://archivolt-seven.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/archivolt">Repo</a>
+    </td>
+    <td width="50%">
+      <h3>TableTap</h3>
+      <p>Table-focused product interface built around fast scanning and structured data.</p>
+      <p><code>TypeScript</code> <code>HTML</code> <code>CSS</code></p>
+      <a href="https://table-tap-virid.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/TableTap">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>JomMasak</h3>
+      <p>Recipe URL cleaner that turns messy pages into structured recipes.</p>
+      <p><code>Angular</code> <code>Express</code> <code>TypeScript</code></p>
+      <a href="https://jom-masak.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/JomMasak">Repo</a>
+    </td>
+    <td width="50%">
+      <h3>Backend Documentation System</h3>
+      <p>API documentation workflow with inline editing, sandbox simulation, and PDF export.</p>
+      <p><code>JavaScript</code> <code>CSS</code> <code>PDF Export</code></p>
+      <a href="https://backend-documentation-system.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/backend-documentation-system">Repo</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -63,6 +99,10 @@ I build full-stack web apps, automation systems, dashboards, and product tools t
 <div align="center">
 
 ### GitHub Snapshot
+
+<img width="100%" alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aimancapik&theme=github_dark" />
+
+<br><br>
 
 <p>
   <img height="170" alt="Aiman's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aimancapik&theme=github_dark" />
