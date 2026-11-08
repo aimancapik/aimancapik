@@ -1,0 +1,38 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: "40 0 * * *"
+  workflow_dispatch:
+  push:
+    paths: [.github/workflows/snake.yml]
+
+permissions:
+  contents: write
+
+concurrency: snake
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: Platane/snk/svg-only@v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            snake/snake-dark.svg?palette=github-dark&color_snake=#38bdf8&color_dots=#1e293b,#0c4a6e,#0369a1,#0ea5e9,#7dd3fc
+            snake/snake-light.svg?palette=github-light&color_snake=#0284c7&color_dots=#e2e8f0,#bae6fd,#7dd3fc,#38bdf8,#0284c7
+      - name: Commit the snake if it changed
+        shell: bash
+        run: |
+          git add snake/
+          if git diff --cached --quiet; then
+            echo "The snake is unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet --message "snake: redraw contribution snake"
+          git pull --quiet --rebase origin "${GITHUB_REF_NAME}"
+          git push --quiet

@@ -34,13 +34,13 @@ I build full-stack web apps, automation systems, dashboards, and product tools t
       <h3>Loopdale</h3>
       <p>Lead capture automation with Google Sheets storage, Telegram alerts, and customer email replies.</p>
       <p><code>Node.js</code> <code>Express</code> <code>JavaScript</code></p>
-      <a href="https://github.com/aimancapik/Loopdale">Private repo</a>
+      <img alt="Private repo" src="https://img.shields.io/badge/Private_repo-1e293b?style=flat-square&logo=lock&logoColor=94a3b8">
     </td>
     <td width="50%">
       <h3>LepakSpot</h3>
       <p>Social cafe discovery and group decision app for Malaysian young adults and cafe hoppers.</p>
       <p><code>TypeScript</code> <code>HTML</code> <code>SCSS</code></p>
-      <a href="https://lepakspot.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/LepakSpot">Private repo</a>
+      <a href="https://lepakspot.vercel.app"><img alt="Live demo" src="https://img.shields.io/badge/Live_demo-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8"></a> <img alt="Private repo" src="https://img.shields.io/badge/Private_repo-1e293b?style=flat-square&logo=lock&logoColor=94a3b8">
     </td>
   </tr>
   <tr>
@@ -48,13 +48,13 @@ I build full-stack web apps, automation systems, dashboards, and product tools t
       <h3>recipe-app</h3>
       <p>Recipe app built around structured recipe data and a deployed full-stack workflow.</p>
       <p><code>TypeScript</code> <code>PLpgSQL</code> <code>CSS</code></p>
-      <a href="https://recipe-app-azure-seven.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/recipe-app">Repo</a>
+      <a href="https://recipe-app-azure-seven.vercel.app"><img alt="Live demo" src="https://img.shields.io/badge/Live_demo-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8"></a> <a href="https://github.com/aimancapik/recipe-app"><img alt="Source code" src="https://img.shields.io/badge/Code-0f172a?style=flat-square&logo=github&logoColor=38bdf8"></a>
     </td>
     <td width="50%">
       <h3>JomMasak</h3>
       <p>Recipe URL cleaner that turns messy pages into structured recipes.</p>
       <p><code>Angular</code> <code>Express</code> <code>TypeScript</code></p>
-      <a href="https://jom-masak.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/JomMasak">Repo</a>
+      <a href="https://jom-masak.vercel.app"><img alt="Live demo" src="https://img.shields.io/badge/Live_demo-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8"></a> <a href="https://github.com/aimancapik/JomMasak"><img alt="Source code" src="https://img.shields.io/badge/Code-0f172a?style=flat-square&logo=github&logoColor=38bdf8"></a>
     </td>
   </tr>
   <tr>
@@ -62,13 +62,13 @@ I build full-stack web apps, automation systems, dashboards, and product tools t
       <h3>Portfolio</h3>
       <p>Personal portfolio and project showcase for recent builds and experiments.</p>
       <p><code>HTML</code> <code>TypeScript</code> <code>SCSS</code></p>
-      <a href="https://portfolio-aiman-syafiq.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/portfolio-aiman-syafiq">Repo</a>
+      <a href="https://portfolio-aiman-syafiq.vercel.app"><img alt="Live demo" src="https://img.shields.io/badge/Live_demo-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8"></a> <a href="https://github.com/aimancapik/portfolio-aiman-syafiq"><img alt="Source code" src="https://img.shields.io/badge/Code-0f172a?style=flat-square&logo=github&logoColor=38bdf8"></a>
     </td>
     <td width="50%">
       <h3>Archivolt</h3>
       <p>Knowledge organization and browsing app with a clean product interface.</p>
       <p><code>JavaScript</code> <code>CSS</code> <code>Vercel</code></p>
-      <a href="https://archivolt-seven.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/archivolt">Repo</a>
+      <a href="https://archivolt-seven.vercel.app"><img alt="Live demo" src="https://img.shields.io/badge/Live_demo-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8"></a> <a href="https://github.com/aimancapik/archivolt"><img alt="Source code" src="https://img.shields.io/badge/Code-0f172a?style=flat-square&logo=github&logoColor=38bdf8"></a>
     </td>
   </tr>
   <tr>
@@ -76,13 +76,13 @@ I build full-stack web apps, automation systems, dashboards, and product tools t
       <h3>TableTap</h3>
       <p>Table-focused product interface built around fast scanning and structured data.</p>
       <p><code>TypeScript</code> <code>HTML</code> <code>CSS</code></p>
-      <a href="https://table-tap-virid.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/TableTap">Repo</a>
+      <a href="https://table-tap-virid.vercel.app"><img alt="Live demo" src="https://img.shields.io/badge/Live_demo-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8"></a> <a href="https://github.com/aimancapik/TableTap"><img alt="Source code" src="https://img.shields.io/badge/Code-0f172a?style=flat-square&logo=github&logoColor=38bdf8"></a>
     </td>
     <td width="50%">
       <h3>Backend Documentation System</h3>
       <p>API documentation workflow with inline editing, sandbox simulation, and PDF export.</p>
       <p><code>JavaScript</code> <code>CSS</code> <code>PDF Export</code></p>
-      <a href="https://backend-documentation-system.vercel.app">Live demo</a> | <a href="https://github.com/aimancapik/backend-documentation-system">Repo</a>
+      <a href="https://backend-documentation-system.vercel.app"><img alt="Live demo" src="https://img.shields.io/badge/Live_demo-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8"></a> <a href="https://github.com/aimancapik/backend-documentation-system"><img alt="Source code" src="https://img.shields.io/badge/Code-0f172a?style=flat-square&logo=github&logoColor=38bdf8"></a>
     </td>
   </tr>
 </table>
@@ -125,10 +125,31 @@ I build full-stack web apps, automation systems, dashboards, and product tools t
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=aimancapik&theme=tokyonight-duo&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 
+</div>
+
+---
+
+<div align="center">
+
+### Live From My Commits
+
+<sub>Both of these are redrawn every night by GitHub Actions from my real contribution activity.</sub>
 
 <br><br>
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="snake/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="snake/snake-light.svg" />
+  <img width="100%" alt="Snake eating my contribution graph" src="snake/snake-dark.svg" />
+</picture>
+
+<br><br>
+
+<img src="koi/koi.gif" width="256" alt="My daily koi, drawn from yesterday's GitHub activity" />
+
+<br>
+
+<sub>Daily koi, drawn from yesterday's GitHub activity.</sub>
 
 </div>
 
