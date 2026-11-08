@@ -129,6 +129,10 @@ I build full-stack web apps, automation systems, dashboards, and product tools t
 
 <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aimancapik&bg_color=0f172a&color=e5e7eb&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true" />
 
+<br><br>
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 </div>
 
 ---
