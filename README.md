@@ -125,9 +125,6 @@ I build full-stack web apps, automation systems, dashboards, and product tools t
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=aimancapik&theme=tokyonight-duo&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 
-<br><br>
-
-<img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aimancapik&bg_color=0f172a&color=e5e7eb&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true" />
 
 <br><br>
 
